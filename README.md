@@ -1,12 +1,7 @@
 # edcp
-## Editor de código simples
+Editor de código simples
 
-Este software tem como intuito, ao ser passado o nome de um arquivo qualquer por argumento, o edcp "editor de código simples" ler o conteudo do arquivo. E
-ele não é apenas isso mas, sim, ler arquivos grandes de forma eficiente e, não pesar na leitura.
-
-## Dependências
-
-O projeto utiliza bibliotecas nativas do Python e uma externa moderna para a interface gráfica.
+<img width="953" height="892" alt="Captura de tela 2025-08-09 003359" src="https://github.com/user-attachments/assets/e61443cb-6ac2-4cf2-b0e3-2990b2759ec3" />
 
 ## 🛠️ Funcionalidades Principais
 
@@ -27,6 +22,11 @@ O projeto utiliza bibliotecas nativas do Python e uma externa moderna para a int
 
 
 ---
+
+Este software tem como intuito, ao ser passado o nome de um arquivo qualquer por argumento, o edcp "editor de código simples" ler o conteudo do arquivo. E
+ele não é apenas isso mas, sim, ler arquivos grandes de forma eficiente e, não pesar na leitura.
+
+
 
 | Biblioteca | Necessita Instalação? | Observações |
 |----------|----------------------|-------------|
